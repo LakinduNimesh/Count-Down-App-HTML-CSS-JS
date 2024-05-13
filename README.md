@@ -28,9 +28,6 @@ To use the countdown timer:
 
 - Google Fonts: [Poppins](https://fonts.google.com/specimen/Poppins)
 
-## Preview
-
-![Countdown Timer Preview](preview.png)
 
 ## Credits
 
